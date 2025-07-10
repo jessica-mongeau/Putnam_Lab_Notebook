@@ -6,10 +6,10 @@ categories: Fun Posts
 tags: [Fun Post, Sharks]
 ---
   
-##SHARK SPECIES IN RHODE ISLAND!
+# SHARK SPECIES IN RHODE ISLAND!
   *This is a short fun post about 2 different types of sharks found in Rhode Island!*
   
-  **What Are Sharks?**
+## **What Are Sharks?**
   Sharks are marine animals classified as Elasmobranchs, characterized for having cartilaginous skeletons instead of bone. Skates and rays also fall under the Elasmobranch subclass.
 
 ### 1. _Mustelus canis_ - Smooth Dogfish
