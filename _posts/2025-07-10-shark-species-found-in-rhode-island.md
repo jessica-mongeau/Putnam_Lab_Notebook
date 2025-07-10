@@ -6,7 +6,7 @@ categories: Fun Posts
 tags: [Fun Post, Sharks]
 ---
   
-# Shark Species Found in Rhode Island1
+# Shark Species Found in Rhode Island!
   *This is a short fun post about 2 different types of sharks found in Rhode Island!*
   
 ## What Are Sharks?
